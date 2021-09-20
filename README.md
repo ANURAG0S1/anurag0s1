@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on my personal projects and freelancing.
 - 🌱 I’m currently learning NODE.js
 - 👯 I’m looking to collaborate on MERN projects.
-- 🤔 I’m looking for help with mernstack.
-- 💬 you may Ask me about anything probably i  would have  an answer.
+- 🤔 I’m looking for help with MERNstack.
 - 📫 How to reach me:  anuragkush051.dev@gmail.com
  
 - ⚡ Fun fact:  i am android dev
