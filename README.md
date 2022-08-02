@@ -16,6 +16,8 @@
 
  
  
+ <a href="https://app.daily.dev/anurag0s1"><img src="https://api.daily.dev/devcards/df9f8f50051345ae9b03194cab298b8c.png?r=o78" width="400" alt="Anurag's Dev Card"/></a>
+ 
 <br>
 
  
