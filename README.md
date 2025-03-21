@@ -1,69 +1,68 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Anurag kushwaha!](https://anuragkush.netlify.app) 👋
- 
-<!-- **ANURAG0S1/anurag0s1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
- 
+# Hi there, I'm Anurag Kushwaha 👋
 
-- 🔭 I’m currently working on my personal projects and freelancing.
-- 🌱 I’m currently learning NODE.js
-- 👯 I’m looking to collaborate on MERN projects.
-- 🤔 I’m looking for help with MERNstack.
-- 📫 How to reach me:  anuragkush051.dev@gmail.com
- 
-- ⚡ Fun fact:  i am android dev
- 
+### 🚀 Frontend Engineer | Angular | React | TypeScript | Node.js
 
+I am a Frontend Engineer with **2+ years of relevant experience**, working in small and large teams to develop **interactive, user-friendly, and feature-rich web applications**. Passionate about UI fundamentals and modern frontend technologies, I can quickly adapt to most frontend frameworks.
 
+---
 
- 
- 
- <a href="https://app.daily.dev/anurag0s1"><img src="https://api.daily.dev/devcards/df9f8f50051345ae9b03194cab298b8c.png?r=o78" width="400" alt="Anurag's Dev Card"/></a>
- 
-<br>
+## 💼 Work Experience
 
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag0s1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anurag0s1 Github Stats">
+### 🔹 Frontend Executive - Adani Digital Labs *(Aug 2023 - Present)*
+- Maintained and enhanced **white-label solutions** for seamless **train-related features**.
+- Led **code reviews** ensuring high-quality standards and best practices.
+- Implemented **security best practices** to protect against **XSS, CSRF, and other vulnerabilities**.
+- Migrated **Angular codebase to Express.js** for performance and **SEO improvements**.
+- Integrated third-party APIs: **IRCTC, Razorpay, AdPushup, Google Ads, and Google Analytics**.
+- Led **migration of a multi-page Angular app to Express.js**, reducing **load times by 70%**.
 
-  
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-lunacy-222F29?style=flat-square&logo=lunacy&logoColor=white"/>
-  </p>
-</p>
-<p>
-  📣 Socials :<br/>
-   <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/anurag0s1"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anurag-k-028735199/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-</p>
-<p>
+### 🔹 Software Engineer (Frontend) - Trainman *(Jan 2022 - Jul 2023)*
+- Developed and deployed a **white-label integration plugin** onboarding three companies.
+- Built **responsive and dynamic** web applications optimizing for **usability, performance, and accessibility**.
+- Improved **critical app performance** using frontend optimization techniques.
+- Successfully **migrated Angular from v9 to v13**, improving app performance by **30%**.
+- Implemented **Server-Side Rendering (SSR)** to boost **SEO rankings** and reduce page load times.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+## 🛠️ Tech Stack & Skills
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
- 
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<br/>
+---
 
- <a href="https://github.com/anurag0s1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/anurag-k-028735199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/anurag051/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+## 🎓 Education
+**Bachelor of Technology in Computer Science**  
+📍 Starex University, Gurugram *(2019 - 2023)*  
+
+---
+
+## 🌟 Extra Responsibilities
+- **Team Leadership:** Led a team of **5 developers**, assigned tasks, and conducted **daily stand-ups**.
+- **Technical Planning:** Contributed to **architecture design, feature planning, and frontend strategies**.
+- **Deployment Management:** Implemented **CI/CD pipelines** for smoother frontend builds.
+- **Code Review Ownership:** Conducted **thorough code reviews**, ensuring adherence to best practices.
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag0s1)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ANURAG0S1)  
+📧 anuragkush051@gmail.com  
+
+---
+
+⭐ **Let's build something amazing together!**  
+💻 **Open to collaboration, freelancing, and exciting frontend projects.**
